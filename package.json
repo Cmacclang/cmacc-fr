@@ -1,6 +1,6 @@
 {
   "name": "cmacc-lib-fr",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Package for all defaults for French and/or France",
   "main": "index.js",
   "repository": "https://github.com/Cmacclang/cmacc-lib-fr.git",
