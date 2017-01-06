@@ -4,4 +4,4 @@ $ adr_12 = [./_adr_12.cmacc] => {
 	"adr" : entity.adr
 };
 
-{{entity.full_Name}}, an individual whose {{entity.adr_Type}} address is {{adr_12}}
+{{entity.full_Name}}, dont {{entity.adr_Type}} se trouve à {{adr_12}}
