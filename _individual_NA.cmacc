@@ -1,7 +1,7 @@
 $ person = [yarn://cmacc-lib-id/_individual.cmacc];
 
 $ adr_12 = [./_adr_12.cmacc] => {
-	"adr" : entity.adr
+	"adr" : person.adr
 };
 
 {{person.full_Name}}, {{adr_12}}
