@@ -6,14 +6,14 @@ $ gov_ID_Num = "gov_ID_Num"
 
 $ entity_a = "entity_a"
 
-$ adr = [yarn://cmacc-lib-geo/country/state/county/city/street/streetnum/_geo.cmacc]
+$ adr = [github:///cmacclang/cmacc-lib-geo/dev/country/state/county/city/street/streetnum/_geo.cmacc]
 
 $ adr_Type = "adr_Type"
 
 $ contact_Name_Formal = "contact_Name_Formal"
 
-$ sign_Rep = [yarn://cmacc-lib-id/_individual.cmacc]
+$ sign_Rep = [github:///cmacclang/cmacc-lib-id/dev/_individual.cmacc]
 
 $ sign_Title = "sign_Title"
 
-$ pron = [yarn://cmacc-lib-lang/FR/_pron.cmacc]
+$ pron = [github:///cmacclang/cmacc-lib-lang/dev/FR/_pron.cmacc]
