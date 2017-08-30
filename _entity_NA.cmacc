@@ -1,7 +1,6 @@
-$ entity = [./_entity.cmacc];
+$ entity = [./_entity.cmacc]
 
-$ adr_12 = [./_adr_12.cmacc] => {
-	"adr" : entity.adr
-};
+$ adr_12 = 
+$ adr_12.adr = entity.adr
 
 {{entity.full_Name}}, {{adr_12}}

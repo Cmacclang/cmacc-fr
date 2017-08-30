@@ -1,19 +1,19 @@
-$ person = [yarn://cmacc-lib-id/_individual.cmacc];
+$ person = [yarn://cmacc-lib-id/_individual.cmacc]
 
-$ full_Name = "{{person.full_Name}}";
+$ full_Name = "{{person.full_Name}}"
 
-$ dear_Namer = "{{person.formal_Name}}";
+$ dear_Name = "{{person.formal_Name}}"
 
-$ gov_ID_Number = "gov_ID_Number";
+$ gov_ID_Number = "gov_ID_Number"
 
-$ entity_a = "une personne";
+$ entity_a = "une personne"
 
-$ adr = [yarn://cmacc-lib-geo/country/state/county/city/street/streetnum/_geo.cmacc];
+$ adr = [yarn://cmacc-lib-geo/country/state/county/city/street/streetnum/_geo.cmacc]
 
-$ adr_Type = "adr_Type";
+$ adr_Type = "adr_Type"
 
-$ sign_Rep = [yarn://cmacc-lib-id/_individual.cmacc];
+$ sign_Rep = [yarn://cmacc-lib-id/_individual.cmacc]
 
-$ sign_Title = "";
+$ sign_Title = ""
 
-$ pron = [yarn://cmacc-lib-lang/FR/_sing.cmacc];
+$ pron = [yarn://cmacc-lib-lang/FR/_sing.cmacc]
