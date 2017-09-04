@@ -1,6 +1,6 @@
 {
   "name": "cmacc-lib-fr",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "description": "Package for all defaults for French and/or France",
   "main": "index.js",
   "repository": "https://github.com/cmacclang/cmacc-lib-fr.git",
@@ -8,8 +8,12 @@
   "flat": true,
   "license": "MIT",
   "dependencies": {
-    "cmacc-lib-geo": "cmacclang/cmacc-lib-geo",
-    "cmacc-lib-id": "cmacclang/cmacc-lib-id",
-    "cmacc-lib-lang": "cmacclang/cmacc-lib-lang"
+    "cmacc-lib-geo": "2.0.3",
+    "cmacc-lib-id": "2.0.1",
+    "cmacc-lib-lang": "2.0.3"
+  },
+  "resolutions": {
+    "cmacc-lib-geo": "2.0.3",
+    "cmacc-lib-lang": "2.0.3"
   }
 }
