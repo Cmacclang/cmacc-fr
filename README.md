@@ -1,6 +1,8 @@
 # cmacc-lib-fr
 
-Contains standard formatting files for France/French:
+[![NPM](https://nodei.co/npm/cmacc-lib-fr.png?compact=true)](https://nodei.co/npm/cmacc-lib-fr/)
+
+FR - Country specifica masks and formats for France
 
 * _adr_12.cmacc is for standard one line addresses
 
